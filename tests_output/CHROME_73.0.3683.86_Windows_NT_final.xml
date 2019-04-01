@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="final"
+    errors="0" failures="0" hostname="" id="" package="final" skipped="0"
+    tests="4" time="38.61" timestamp="">
+  
+    <testcase name="search for item" classname="final" time="8.868" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Advanced Search" classname="final" time="8.359" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="attempt log in with fake email" classname="final" time="13.38" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Set up account" classname="final" time="8.002" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
